@@ -35,6 +35,7 @@
    <a> Learning devops  is easy</a>
 
    <a>this change is reflecting after doing ansible </a>
-
+<br>
+<p>Ansible will do the job automatically</p>
   
 </form>

@@ -34,7 +34,7 @@
    <h1> Thankyou, Happy Learning. Good bye </h1>
    <a> Learning devops  is easy</a>
 
-   <a>this change is reflecting after doing ansible config</a>
+   <a>this change is reflecting after doing ansible configuration</a>
 
   
 </form>

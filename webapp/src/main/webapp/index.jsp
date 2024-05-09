@@ -36,6 +36,6 @@
 
    <a>this change is reflecting after doing ansible </a>
 <br>
-<p>Ansible will do the job automatically</p>
+<p>Ansible will do the job automatic</p>
   
 </form>
